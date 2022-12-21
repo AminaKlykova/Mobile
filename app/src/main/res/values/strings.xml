@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="Email">Электронная почта</string>
+    <string name="Address">Домашний адрес</string>
+    <string name="Other">Иная информация</string>
+    <string name="Number">Номер</string>
+    <string name="Name">Название контакта</string>
+    <string name="Back">Назад</string>
+    <string name="Save">Сохранить</string>
+    <string name="Cancel">Отменить</string>
+    <string name="Delete">Удалить</string>
+    <string name="Edit">Редактировать</string>
+    <string name="plugin">Добавить плагин</string>
+    <string name="avatar">Avatar</string>
+</resources>
